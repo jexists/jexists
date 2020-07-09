@@ -1,6 +1,6 @@
 
 ## WELCOME TO JEXISTS GITHUB 👋
-#New developer #Front-End #Designer
+#### #New developer #Front-End #Designer
 
 ### ⚙️ Programming Skills
 - HTML, CSS, SCSS, Bootstrap
