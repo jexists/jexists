@@ -1,7 +1,8 @@
 
-# Jeong, JuAe 👋
+## Jeong, JuAe 👋
+#Front-End
 
-## ⚙️ Programming Skills
+### ⚙️ Programming Skills
 #### Advanced
 - HTML, CSS, jQuery
 #### Intermediate
@@ -9,7 +10,7 @@
 #### Biginner
 - TypeScript,React
 
-## 📫 How to Reach me
+### 📫 How to Reach me
 - Notion: https://www.notion.so/jexists/Jexists-e7af7d9664634bdeb9389eb060b9e42c
 - portfolio: https://jexists.github.io/portfolio/
 
