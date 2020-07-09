@@ -3,12 +3,9 @@
 #Front-End
 
 ### ⚙️ Programming Skills
-#### Advanced
-- HTML, CSS, jQuery
-#### Intermediate
-- SCSS, JavaScript, Angular
-#### Biginner
-- TypeScript,React
+- HTML, CSS, SCSS, Bootstrap
+- JavaScript, jQuery, TypeScript
+- Angular, React
 
 ### 📫 How to Reach me
 - Notion: https://www.notion.so/jexists/Jexists-e7af7d9664634bdeb9389eb060b9e42c
