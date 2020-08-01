@@ -9,6 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jexists&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jexists&show_icons=true)
+
 ### 📫 How to Reach me
 - Notion: https://www.notion.so/jexists/Jexists-e7af7d9664634bdeb9389eb060b9e42c
 - portfolio: https://jexists.github.io/portfolio/
