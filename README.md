@@ -1,7 +1,7 @@
 ## WELCOME TO JEXISTS GITHUB 👋
 #### #New developer #Front-End #Designer
 
-### ⚙️ Programming Skills
+### ⚙️ Languages and Tools:
 - HTML, CSS, SCSS, Bootstrap
 - JavaScript, jQuery, TypeScript
 - Angular, React
