@@ -7,7 +7,7 @@
 - JavaScript, jQuery, TypeScript
 - Angular, React
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/jexists/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jexists&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 How to Reach me
 - Notion: https://www.notion.so/jexists/Jexists-e7af7d9664634bdeb9389eb060b9e42c
