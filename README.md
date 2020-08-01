@@ -1,4 +1,6 @@
 
+<div align="center"> 
+
 ## WELCOME TO JEXISTS GITHUB 👋
 #### #New developer #Front-End #Designer
 
@@ -17,7 +19,8 @@
 - Notion: https://www.notion.so/jexists/Jexists-e7af7d9664634bdeb9389eb060b9e42c
 - portfolio: https://jexists.github.io/portfolio/
 
-<div align="center"> 
+
+
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjexists)](https://hits.seeyoufarm.com)
 
